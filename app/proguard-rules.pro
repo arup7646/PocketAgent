@@ -1,0 +1,3 @@
+-keepattributes *Annotation*
+-keep class com.pocketagent.** { *; }
+-keep class androidx.room.** { *; }
